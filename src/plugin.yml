@@ -1,0 +1,5 @@
+name: FantasticBoard
+version: 1.0.0
+main: com.ome_r.fantasticboard.FantasticBoard
+softdepend: [PlaceholderAPI]
+author: [OmerBenGera]

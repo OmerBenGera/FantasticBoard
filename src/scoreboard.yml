@@ -1,0 +1,38 @@
+######################################################
+##                                                  ##
+##                  FantasticBoard                  ##
+##                Made by OmerBenGera               ##
+##            PlaceholderAPI is supported           ##
+##                                                  ##
+######################################################
+
+#All the lines of the scoreboard
+lines:
+  #First line is the title. you can change the name of it to whatever you want.
+  #Maximum length of the title is 30 chars (includes colors)
+  title:
+    #The interval between updates in ticks
+    interval: 20
+    #The text of the line
+    text:
+    - '&1Test'
+    - '&2Test'
+    - '&3Test'
+  #These lines are the lines themselves.
+  #Maximum length of each line is 28 chars (includes colors)
+  line-1:
+    interval: 1000
+    text:
+    - '&fPlayer: %player_name%'
+  line-2:
+    interval: 1000
+    text:
+    - '&2Line2'
+  line-3:
+    interval: 1000
+    text:
+    - '&3Line3'
+  line-4:
+    interval: 1000
+    text:
+    - '&4Line4'

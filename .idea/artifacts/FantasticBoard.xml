@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FantasticBoard">
+    <output-path>D:/My Servers/Test Server/plugins</output-path>
+    <root id="archive" name="FantasticBoard.jar">
+      <element id="module-output" name="FantasticBoard" />
+    </root>
+  </artifact>
+</component>
